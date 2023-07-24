@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/18"/>
+	<classpathentry kind="src" path="src/minecraft"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/log4j-api-2.15.0-sources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/libraries"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/1.8.8"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
